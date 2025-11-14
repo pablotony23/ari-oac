@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Psicotest",
+    "image": "/img/patrocinadores/Psicotest.png",
+    "links": [
+      {
+        "type": "web",
+        "url": "https://psicotest.mx/?utm_term=psicotest&utm_campaign=01%20Search%20Brand%20Terms&utm_source=adwords&utm_medium=ppc&hsa_acc=4510360248&hsa_cam=20417993185&hsa_grp=160417098148&hsa_ad=729328368657&hsa_src=g&hsa_tgt=kwd-339503330609&hsa_kw=psicotest&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gbraid=0AAAAACy2TQ6Olu-OYi0R5uSF-YaiWKX9L&gclid=Cj0KCQjw2ZfABhDBARIsAHFTxGzG3pc0Kgb6rvHNNPLyqtarrih0DG2SqUOP889e87LRKYci9MoA1EkaAsR7EALw_wcB",
+        "icon": "/img/iconos/www.svg",
+        "alt": "Sitio web"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://www.linkedin.com/company/psicotest-mhs",
+        "icon": "/img/iconos/linke.svg",
+        "alt": "LinkedIn"
+      },
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/psicotest_mhs",
+        "icon": "/img/iconos/instagram.svg",
+        "alt": "Instagram"
+      },
+      {
+        "type": "facebook",
+        "url": "https://www.facebook.com/psicometria",
+        "icon": "/img/iconos/face.svg",
+        "alt": "Facebook"
+      },
+      {
+        "type": "whatsapp",
+        "url": "https://wa.me/+5592256300",
+        "icon": "/img/iconos/whats.svg",
+        "alt": "WhatsApp"
+      }
+    ]
+  },
+  {
+    "name": "Tergum",
+    "image": "/img/patrocinadores/Tergum24.png",
+    "links": [
+      {
+        "type": "web",
+        "url": "https://tergum.com.mx/index.html",
+        "icon": "/img/iconos/www.svg",
+        "alt": "Sitio web"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://www.linkedin.com/company/tergum-m-xico/posts/?feedView=all",
+        "icon": "/img/iconos/linke.svg",
+        "alt": "LinkedIn"
+      },
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/tergum_oficial/?hl=es-la",
+        "icon": "/img/iconos/instagram.svg",
+        "alt": "Instagram"
+      },
+      {
+        "type": "facebook",
+        "url": "https://www.facebook.com/tergumconsejeriaempresarial/",
+        "icon": "/img/iconos/face.svg",
+        "alt": "Facebook"
+      },
+      {
+        "type": "whatsapp",
+        "url": "https://wa.me/+526421166910",
+        "icon": "/img/iconos/whats.svg",
+        "alt": "WhatsApp"
+      }
+    ]
+  },
+  {
+    "name": "Inteliteam",
+    "image": "/img/patrocinadores/Inteliteam.png",
+    "links": [
+      {
+        "type": "web",
+        "url": "https://inteliteam.mx/",
+        "icon": "/img/iconos/www.svg",
+        "alt": "Sitio web"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://www.linkedin.com/company/inteliteam/posts/?feedView=all",
+        "icon": "/img/iconos/linke.svg",
+        "alt": "LinkedIn"
+      },
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/inteliteam2021/",
+        "icon": "/img/iconos/instagram.svg",
+        "alt": "Instagram"
+      },
+      {
+        "type": "facebook",
+        "url": "https://www.facebook.com/Inteliteam/?locale=es_LA",
+        "icon": "/img/iconos/face.svg",
+        "alt": "Facebook"
+      },
+      {
+        "type": "whatsapp",
+        "url": "https://wa.me/+523338082162",
+        "icon": "/img/iconos/whats.svg",
+        "alt": "WhatsApp"
+      }
+    ]
+  },
+  {
+    "name": "Conexión RH",
+    "image": "/img/patrocinadores/ConexionRH.png",
+    "links": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/revistaconexionrh/",
+        "icon": "/img/iconos/instagram.svg",
+        "alt": "Instagram"
+      },
+      {
+        "type": "facebook",
+        "url": "https://www.facebook.com/RevistaConexionRH",
+        "icon": "/img/iconos/face.svg",
+        "alt": "Facebook"
+      },
+      {
+        "type": "whatsapp",
+        "url": "https://wa.me/+523312194508",
+        "icon": "/img/iconos/whats.svg",
+        "alt": "WhatsApp"
+      }
+    ]
+  },
+  {
+    "name": "Ideal Jobs",
+    "image": "/img/patrocinadores/idealjobs2.png",
+    "links": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/idealjobs_arioac/",
+        "icon": "/img/iconos/instagram.svg",
+        "alt": "Instagram"
+      },
+      {
+        "type": "facebook",
+        "url": "https://www.facebook.com/Arioacidealjobs",
+        "icon": "/img/iconos/face.svg",
+        "alt": "Facebook"
+      }
+    ]
+  },
+  {
+    "name": "MIdot PENDIENTE DE FOTO",
+    "image": "/img/patrocinadores/Midot.png",
+    "links": [
+      {
+        "type": "web",
+        "url": "https://midot.com/latam/?country=Mexico",
+        "icon": "/img/iconos/www.svg",
+        "alt": "Sitio web"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://www.linkedin.com/jobs/view/support-management-support-and-maintenance-services-at-midot-latam-4184963553/?originalSubdomain=mx",
+        "icon": "/img/iconos/linke.svg",
+        "alt": "LinkedIn"
+      },
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/midot_latam/",
+        "icon": "/img/iconos/instagram.svg",
+        "alt": "Instagram"
+      },
+      {
+        "type": "facebook",
+        "url": "https://www.facebook.com/midotmexico/albums/101365961382182/",
+        "icon": "/img/iconos/face.svg",
+        "alt": "Facebook"
+      },
+      {
+        "type": "whatsapp",
+        "url": "https://wa.me/+525579166324",
+        "icon": "/img/iconos/whats.svg",
+        "alt": "WhatsApp"
+      }
+    ]
+  }
+]
